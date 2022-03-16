@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #10487C;
+  color: #FFEDCB;
+}
+
+#title {
+  font-size: 50px;
+  margin: auto;
+  padding: 10px 0px 40px 0px;
+}
+
+#string {
+  margin: 10px 0px 20px 0px;
+  width: 300px;
+  height: 25px;
+  font-size: 20px;
+  background-color: #FFEDCB;
+  color: #10487C;
+}
+
+.button {
+  width: 70px;
+  height: 30px;
+  font-size: 15px;
+  background-color: #DFF5F3;
+  color: #4A5D5C;
+  border-radius: 5px;
+}
+
+#output {
+  margin: 50px;
+}
